@@ -1,0 +1,3 @@
+- in the form of a string
+- line by line
+- in the form of a list  
